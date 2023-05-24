@@ -17,8 +17,10 @@ Si tinguéssim de formular el concepte d'hibridació ens quedaria d'aquesta mane
 
 Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el concepte d'hibridació són el software <strong>Canva</strong> i l'espai cultural <strong>Ideal Barcelona</strong>. Els dos casos són molt bons exemples, ja que tots dos transformen d'una manera els mitjans que actualment coneixem en el sector del disseny i de la cultura.
 
+#
 
-## Cas 1: Canvas
+<img src="/canva0.svg">
+
 Canva és un software de disseny. El seu objectiu és apropar el disseny a tothom. El seu claim és "El poder del diseño, al alcance de todos". El que pretén és que qualsevol persona, amb o sense coneixements de disseny, pugi dissenyar el que volguí amb uns acabats professionals i publicar-ho en l'entorn digital.
 
 Perquè considerem que Canva és un bon exemple d'hibirdació?
@@ -32,7 +34,7 @@ Per tant, ens trobem amb una eina amb diferents components de disseny on pots cr
 Per accedir en aquesta plataforma només cal registrar-se amb el teu correu personal o relacionar-la amb el compte de Facebook o Gmail, així de simple. Podem entrar mitjançant la seva plataforma online, descarregar l'opció d'escriptori, com si fos un programa més de disseny o mitjançant app al mòbil. L'avantatge que té aquesta eina és que si accedeixes amb el teu usuari amb qualsevol dispositiu, tot el treball i dissenys que tenim es sincronitzen i conserva els canvis que has realitzat. Aquesta sincronització facilita molt la feina i no preocupar-se de perdre la feina desenvolupada en el moment.
 
 
-## Cas 2: IdealBarcelona
+<img src="/canva0.svg">
 
 IdealBarcelona és un altre bon exemple d'hibridació. En aquest cas en el sector de la cultura.
 
