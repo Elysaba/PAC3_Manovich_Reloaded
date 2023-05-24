@@ -21,7 +21,7 @@ Si tinguéssim de formular el concepte d'hibridació ens quedaria d'aquesta mane
 Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el concepte d'hibridació són el software ***Canva*** i l'espai cultural **Ideal Barcelona**. Els dos casos són molt bons exemples, ja que tots dos transformen d'una manera els mitjans que actualment coneixem en el sector del disseny i de la cultura.<br>
 
 #
-<br>
+
 <img src="/logo-canva.svg" alt="Canva">
 
 ***Canva*** és un software de disseny que neix el 2012. El seu objectiu és apropar el disseny a tothom. El seu *claim* és:
@@ -60,14 +60,34 @@ Com hem mencionat anteriorment, és un programa pensat tant per usuaris professi
 
 Les experiències immersives són molt exemple per entendre d'hibridació, i aquest cas és peculiar perquè l'espai on realitzen aquestes exposicions era un antic cinema i amb el pas del temps es va convertir en platós de televisió. I quin millor lloc com aquest per poder realitzar o experimentar l'art d'aquesta manera amb l'art.
 
-Amb aquest nou concepte, anar a una exposició ja no és avorrit perquè t'**endinses dins de l'obra de l'artista i formes part de l'obra**. L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen vàries tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i interactuar amb les peces artístiques.
+Amb aquest nou concepte, anar a una exposició ja no és avorrit perquè t'**endinses dins de l'obra de l'artista i formes part de l'obra**. 
 
-Una nova manera de consumir art, aquests espais es poden convertir en els nous museus del futur o es quedaran com centres només d'exhibicions puntuals? Hem de dir, que en aquest cas és més que un futur museu, el podem considerar un espai cultural perquè no només s'han realitzat exposicions sinó també hi han hagut projectes teatrals on la barrera dels actors i l'espectador no existeix, ja que tots formaven part de l'obra i combinant en projeccions tridimensionals.
+L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen vàries tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i interactuar amb les peces artístiques.
 
-Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos. (Manovich, 2013)
 
-Ideal Barcelona no només és un centre on realitzen exposicions sinó també és un Laboratori, aquí treballen molt amb el concepte d'hibridació. Agafen ja tècniques existents com realitat augmentada, 3D, hologrames i van més enllà per poder oferir a l'usuari una experiència inoblidable i així poder apropar l'art a tothom. Actualment, estan portant a terme un projecte molt interessant i potser sortirà una remediació de la realitat virtual. Estan desenvolupant una tecnologia pròpia, la realitat virtual multiusuaris. D'aquesta manera els permet crear i gestiona experiències en un mateix espai físic i compartir-les al mateix moment amb un altra persona que està interactuant amb el contingut. Combinen els dos mons: els que utilitzen la realitat virtual i els que interactuen dins de l'espai.
+[<img src="/ideal.png">](https://idealbarcelona.com/wp-content/uploads/2020/09/IDEAL-Centre-darts-digitals-Digital-Arts-Center.mp4)
 
-No es conformen a ensenyar el que són capaços de fer sinó que comparteixen el coneixement a tothom, per aquest motiu organitzen tallers, activitats i programes de formació, des de nens petits a públic especialitzat. I no només es centren a convertir grans obres mestres en noves obres sinó que tenen un espai per nou creadors, això si creadors que treballin en formats digitals..
+Una **`nova manera de consumir art`**, aquests espais es poden convertir en els nous museus del futur o es quedaran com centres només d'exhibicions puntuals? Hem de dir, que en aquest cas és més que un "futur museu", el podem considerar un espai cultural perquè no només s'han realitzat exposicions sinó també hi han hagut projectes teatrals on la barrera dels actors i l'espectador no existeix, ja que tots formaven part de l'obra i combinant en projeccions tridimensionals.
+
+> *Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos. (Manovich, 2013)*
+
+**Ideal Barcelona** no només és un centre on realitzen exposicions sinó també és un **Laboratori**, aquí treballen molt amb el concepte d'hibridació. Agafen ja tècniques existents com realitat augmentada, 3D, hologrames i van més enllà per poder oferir a l'usuari una *experiència inoblidable* i així poder apropar l'art a tothom. Actualment, estan portant a terme un projecte molt interessant i potser sortirà una nova manera d'entendre la realitat virtual. Estan **`desenvolupant una tecnologia pròpia`**, la realitat virtual multiusuaris. D'aquesta manera els permet crear i gestiona experiències en un mateix espai físic i compartir-les al mateix moment amb un altra persona que està interactuant amb el contingut. Combinen els dos mons: els que utilitzen la realitat virtual i els que interactuen dins de l'espai.
+
+No es conformen a ensenyar el que són capaços de fer sinó que comparteixen el coneixement a tothom, per aquest motiu organitzen tallers, activitats i programes de formació, des de nens petits a públic especialitzat. I no només es centren a convertir grans obres mestres en noves obres sinó que tenen un **`espai per nou creadors`**, això si creadors que treballin en **formats digitals**.
+
+Com podem veure, **Ideal Barcelona** ha posat a l'abast de tothom una nova forma d'expressió, i ho aconsegueix combinant art + noves tecnologies. Hem de dir que no és pionera, ja que abans es podria trobar alguna exposició amb realitat virtual, però sí que és la primera que combina vàries tècniques per tenir aquesta experiència immersiva.
+
+
 
 # Bibliografia/ Webgrafia
+- Manovich, L. (2013). *El software toma el mando. Barcelona.* Editorial UOC
+- [Web Canva](https://www.canva.com/es_es/about/)
+- Fernández, Yúbal (2020, 25 de maig). *Qué es Canva, cómo funciona y cómo usarlo para crear un diseño* [ [entrada de blog] ](https://www.xataka.com/basics/que-canva-como-funciona-como-usarlo-para-crear-diseno). Blog de Xataka
+- GR, Rocio (2023, 03 de febrer). *Cómo usar Canva para crear cualquier diseño* [ [entrada de blog] ](https://www.adslzone.net/reportajes/foto-video/que-es-canva-funcionamiento/). Blog de ADSLZONE
+- *Canva* [Wikipedia](https://es.wikipedia.org/wiki/Canva)
+- [Web Ideal Barcelona](https://idealbarcelona.com/es/ideal/)
+- Romanos, Andrea (2021, 14 d'octubre). *El arte inmersivo, una tendencia al alza* [ [entrada de blog] ](https://www.uoc.edu/portal/es/news/actualitat/2021/274-arte-inmersivo.html). Blog UOC.
+- Luján, Asun (2019, 16 de novembre). *EL ARTE DIGITAL SE INSTALA EN BARCELONA* [ [entrada de blog] ](https://viajes.nationalgeographic.com.es/lifestyle/arte-digital-se-instala-barcelona_14840). National Geographic
+- (2020, 08 de setembre).*El CITM y IDEAL Barcelona colaborarán en nuevos proyectos basados en tecnologías inmersivas* [ [entrada de blog] ](https://www.citm.upc.edu/blog/el-citm-y-ideal-barcelona-colaboraran-en-nuevos-proyectos-basados-%E2%80%8B%E2%80%8Ben-tecnologias-inmersivas/#). Blog de la UPC.
+- Miñarro, Carla (2022, 28 de maig). *El IDEAL Barcelona se adentra en la mente de Dalí a través de la primera experiencia mundial de metaverso colectiva* [ [Article] ](https://www.niusdiario.es/espana/catalunya/20220528/ideal-barcelona-adentra-mente-dali-experiencia-mundial-metaverso-colectiva_18_06548843.html). Diari Nius
+
