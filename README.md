@@ -49,6 +49,7 @@ L'ús de l'eina és gratuïta, però també existeix l'opció Prèmium on per un
 
 Com hem mencionat anteriorment, és un programa pensat tant per usuaris professionals com no professionals, per aquest motiu és un software que abasta molt de camp. Molts professionals del disseny o del sector de la comunicació utilitzen l'eina per la seva rapidesa i perquè té un gran ventall de possibilitats i de crear de manera ràpida i resolutiva.
 
+#
 <br>
 <img src="/IdealBarcelona.png" width="70" >
 
@@ -79,7 +80,7 @@ Com podem veure, **Ideal Barcelona** ha posat a l'abast de tothom una nova forma
 
 
 
-# Bibliografia/ Webgrafia
+# <img src="/presentacion.png" width="30" height="30" style="padding-top:30px" alt="Plantejament"> Bibliografia/ Webgrafia
 - Manovich, L. (2013). *El software toma el mando. Barcelona.* Editorial UOC
 - [Web Canva](https://www.canva.com/es_es/about/)
 - Fernández, Yúbal (2020, 25 de maig). *Qué es Canva, cómo funciona y cómo usarlo para crear un diseño* [ [entrada de blog] ](https://www.xataka.com/basics/que-canva-como-funciona-como-usarlo-para-crear-diseno). Blog de Xataka
