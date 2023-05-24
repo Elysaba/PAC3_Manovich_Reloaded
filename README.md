@@ -35,6 +35,8 @@ Doncs és un software on hi ha elements de <strong>`diferents programaris de dis
 
 La peculiaritat de <em><strong>Canva</em></strong> és que han <strong>`adequat les funcionalitats d'eines professionals`</strong> per tal que els usuaris, que no tinguin cap coneixement d'aquests programes tan específics, les pugui utilitzar com a tal. A més simplifica el treball, utilitzen un <em><strong>`sistema drag &drop`</strong></em>, només cal arrossegar els elements (com objectes, imatges, gràfics, etc ) que volem incloure en el disseny en el taulell que estem treballant. També ens permet incloure imatges nostres, no és necessari que utilitzem només els elements que ens ofereix el software sinó que podem pujar imatges, animacions o vídeos propis. L'únic requisit és que no es poden editar, és a dir, si volem retocar les imatges, aquests retocs els continuarem fent amb el programa de disseny més convenien.
 
+<img src="/canva.png">
+
 Al darrere d'aquesta plataforma hi ha un gran <strong>`banc de dades i d'algoritmes`</strong>. En el moment que et registres et demana per l'ús que vols fer i d'aquesta manera t'ofereix plantilles adequades o orientades per l'ús. També quan introdueixes un element en el teu disseny en el moment t'ofereixen plantilles o elements similars el que s'acaba de seleccionar. Té molt en compte les preferències de l'usuari per poder oferir opcions molt afinades. Un dels objectius de <em><strong>Canva</strong></em> és poder realitzar treballs acurats i a ser possible fer-ho d'una manera senzilla i ràpida.
 
 <img src="/canva3.png">
