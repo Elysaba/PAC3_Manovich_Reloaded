@@ -5,21 +5,18 @@ Aula: 20.444 - Cultura Digital aula 1 - Grau en Tècniques d'Interacció Digital
 
 Autor/a: Elisabet Delgado López
 
-Estat: Fase de desenvolupament
-
-Data: 17/05/2023
+Data: 24/05/2023
 
 
 # Plantejament
-A continuació analitzaren dos casos d'hibridació. La millor manera de realitzar aquesta anàlisi és fer-ho des de la perspectiva de Manovich.
+A continuació analitzarem dos casos d'hibridació. La millor manera de realitzar aquest anàlisis és fer-ho des de la perspectiva de Manovich.
 
-Abans d'exposar els dos casos que hem escollit per fer aquesta anàlisi hem d'entendre el concepte d'hibridació. Segons Manovich en el seu llibre El software toma el mando. Barcelona (Manovich, 2013) podem entendre la hibridació com un procés de remediació, de fusió dels mitjans que va més enllà del multimèdia. O dit d'un altra manera: Se agrupan técnica y formatos de respresentación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.
+Abans d'exposar els dos casos que hem escollit per fer aquest anàlisi hem d’entendre el concepte d'hibridació. Segons Manovich en el seu llibre <em> El software toma el mando. Barcelona (Manovich, 2013) </em> podem entendre la hibridació com un procés de remediació, de fusió dels mitjans que va més enllà del multimèdia. O dit d'un altra manera: 
+> <em>Se agrupan técnica y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.</em>
 
-Si tinguéssim de formular el concepte d'hibridació ens quedaria d'aquesta manera:
+Si tinguéssim de formular el concepte d'hibridació ens quedaria d'aquesta manera: <em><strong>Tècniques o formats anteriors + noves tècniques = un nou format o expressió </strong></em>
 
-Tècniques i formats anterior + noves tècniques = un nou format o expressió.
-
-Els dos casos que hem escollit per fer aquesta anàlisi i entendre millor el concepte d'hibridació són el software Canva i l'espai cultural Ideal Barcelona. Els dos casos són molt bons exemples, ja que tots dos transformen d'una manera els mitjans que actualment coneixem en el sector del disseny i de la cultura.
+Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el concepte d'hibridació són el software <strong>Canva</strong> i l'espai cultural <strong>Ideal Barcelona</strong>. Els dos casos són molt bons exemples, ja que tots dos transformen d'una manera els mitjans que actualment coneixem en el sector del disseny i de la cultura.
 
 
 ## Cas 1: Canvas
