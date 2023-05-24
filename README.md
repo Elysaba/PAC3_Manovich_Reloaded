@@ -7,8 +7,7 @@ Autor/a: Elisabet Delgado López
 
 Data: 24/05/2023
 
-
-# Plantejament
+# <img src="/presentacion.png" width="30" height="30" style="padding-top:30px"> Plantejament
 A continuació analitzarem dos casos d'hibridació. La millor manera de realitzar aquest anàlisis és fer-ho des de la perspectiva de Manovich.
 
 Abans d'exposar els dos casos que hem escollit per fer aquest anàlisi hem d’entendre el concepte d'hibridació. Segons Manovich en el seu llibre <em> El software toma el mando. Barcelona (Manovich, 2013) </em> podem entendre la hibridació com un procés de remediació, de fusió dels mitjans que va més enllà del multimèdia. O dit d'un altra manera: 
