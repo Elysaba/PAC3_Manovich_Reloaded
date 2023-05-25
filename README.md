@@ -12,11 +12,11 @@ Data: 24/05/2023
 A continuació analitzarem dos casos d'hibridació. La millor manera de realitzar aquest anàlisis és fer-ho des de la perspectiva de Manovich.
 
 
-Abans d'exposar els dos casos que hem escollit per fer aquest anàlisi hem d’entendre el concepte d'hibridació. Segons Manovich en el seu llibre *El software toma el mando. Barcelona (Manovich, 2013)* podem entendre la hibridació com un procés de remediació, de fusió dels mitjans que va més enllà del multimèdia. O dit d'un altra manera: 
-> *Se agrupan técnica y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.*
+Abans d'exposar els dos casos que hem escollit per fer aquest anàlisi hem d’entendre el concepte d'hibridació. Segons Manovich en el seu llibre *El software toma el mando. Barcelona (Manovich, 2013)* podem entendre la hibridació com un procés de remediació, de fusió dels mitjans que va més enllà del multimèdia. 
 
+O dit d'un altra manera: 
+> *Se agrupan técnica y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.* 
 
-Si tinguéssim de formular el concepte d'hibridació ens quedaria d'aquesta manera: ***Tècniques o formats anteriors + noves tècniques = un nou format o expressió***
 
 Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el concepte d'hibridació són el software ***Canva*** i l'espai cultural **Ideal Barcelona**. Els dos casos són molt bons exemples, ja que tots dos transformen d'una manera els mitjans que actualment coneixem en el sector del disseny i de la cultura.<br>
 
@@ -24,30 +24,31 @@ Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el conc
 
 <img src="/logo-canva.svg" alt="Canva">
 
-***Canva*** és un software de disseny que neix el 2012. El seu objectiu és apropar el disseny a tothom. El seu *claim* és:
- > ***El poder del diseño, al alcance de todos***
+***Canva*** és un software de disseny que neix el 2012. El seu objectiu és apropar el disseny a tothom: ***El poder del diseño, al alcance de todos***
 
-El que pretenen és que qualsevol persona, amb o sense coneixements de disseny, pugi dissenyar el que volguí amb uns acabats professionals i publicar-ho en l'entorn digital.
+El que pretenen és que qualsevol persona pugi dissenyar el que volguí amb uns acabats professionals i publicar-ho en l'entorn digital.
 
 **Per què considerem que *Canva* és un bon exemple d'hibridació?**
 
-Per diferents motius que anirem desglossant. L'element principal és bàsicament que engloba en una mateixa plataforma funcionalitats de **`diferents programaris de disseny`**, com utilització de pinzells, transformar una imatge, animar, i fins i tot, editar vídeos. 
+Si ens basem en una de les definicions de Manovich en el seu llibre *El software toma el mando. Barcelona (Manovich, 2013)*, veiem clarament que seria un exemple per sortir en el seu llibre:
 
-La peculiaritat de ***Canva*** és que han **`adequat les funcionalitats d'eines professionals`** per tal que els usuaris, que no tinguin cap coneixement d'aquests programes tan específics, les pugui utilitzar com a tal. A més simplifica el treball, utilitzen un ***`sistema drag &drop`***, només cal arrossegar els elements (com objectes, imatges, gràfics, etc ) que volem incloure en el disseny en el taulell que estem treballant. També ens permet incloure imatges nostres, no és necessari que utilitzem només els elements que ens ofereix el software sinó que podem pujar imatges, animacions o vídeos propis. L'únic requisit és que no es poden editar, és a dir, si volem retocar les imatges, aquests retocs els continuarem fent amb el programa de disseny més convenien.
+> *Se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado.*
+
+L'element principal de ***Canva*** és bàsicament englobar en una mateixa plataforma funcionalitats de **`diferents programaris de disseny`**, com utilització de pinzells, transformar una imatge, animar, i fins i tot, editar vídeos, entre d’altres. I no és suficient, ja que han **`adequat les funcionalitats d'eines professionals`** per tal que els usuaris, que no tinguin cap coneixement d'aquests programes tan específics, les pugui utilitzar com a tal. A més simplifica el treball, utilitzen un ***`sistema drag &drop`***, només cal arrossegar els elements (com objectes, imatges, gràfics, etc ) que volem incloure en el disseny en el taulell que estem treballant. També ens permet incloure imatges o vídeos propis.
 
 <img src="/canva.png">
 
-Al darrere d'aquesta plataforma hi ha un gran **`banc de dades i d'algoritmes`**. En el moment que et registres et demana per l'ús que vols fer i d'aquesta manera t'ofereix plantilles adequades o orientades per l'ús. També quan introdueixes un element en el teu disseny en el moment t'ofereixen plantilles o elements similars el que s'acaba de seleccionar. Té molt en compte les preferències de l'usuari per poder oferir opcions molt afinades. Un dels objectius de <em><strong>Canva</strong></em> és poder realitzar treballs acurats i a ser possible fer-ho d'una manera senzilla i ràpida.
+Al darrere d'aquesta plataforma hi ha un gran **`banc de dades i d'algoritmes`**. En el moment que et registres et demana per l'ús que vols fer i d'aquesta manera t'ofereix plantilles adequades o orientades per l'ús. També quan introdueixes un element en el teu disseny en el moment t'ofereixen plantilles o elements similars el que s'acaba de seleccionar. Té molt en compte les preferències de l'usuari per poder oferir opcions molt afinades. Un dels objectius de ***Canva*** és poder realitzar treballs acurats i a ser possible fer-ho d'una manera senzilla i ràpida.
 
 <img src="/canva3.png">
 
-Per tant, ens trobem amb una eina amb diferents components de disseny on pots crear des de zero o utilitzar alguna de les seves plantilles, actualment podem parlar de 15 milions de plantilles. No només es crea sinó que també pots <strong>`compartir les teves creacions, descarregar o inclús demanar el servei d'impressió`</strong>. Fan el servei d'una impremta, això si amb un cost addicional.
+Per tant, ens trobem amb una eina amb diferents components de disseny on pots crear des de zero o utilitzar alguna de les seves plantilles, actualment podem parlar de 15 milions de plantilles. No només es crea sinó que també pots **`compartir les teves creacions, descarregar o inclús demanar el servei d'impressió`**. Fan el servei d'una impremta, això si amb un cost addicional.
 
 Per accedir en aquesta plataforma només cal registrar-se amb el teu correu personal o relacionar-la amb el compte de Facebook o Gmail, així de simple. Podem entrar mitjançant la seva plataforma online, descarregar l'opció d'escriptori, com si fos un programa més de disseny o mitjançant app al mòbil. L'avantatge que té aquesta eina és que si accedeixes amb el teu usuari amb qualsevol dispositiu, tot el treball i dissenys que tenim es **`sincronitzen`** i mantén els canvis que has realitzat. Aquesta sincronització facilita molt la feina i no preocupar-se de perdre la feina desenvolupada en el moment.
 
-L'ús de l'eina és gratuïta, però també existeix l'opció Prèmium on per un cert preu tens accés a més plantilles i altres recursos. Cal mencionar que compten amb pla especials per ONG, estudiants o centres educatius.
+L'ús de l'eina és gratuïta, però també existeix l'opció Prèmium on per un cert preu tens accés a més plantilles i altres recursos.
 
-Com hem mencionat anteriorment, és un programa pensat tant per usuaris professionals com no professionals, per aquest motiu és un software que abasta molt de camp. Molts professionals del disseny o del sector de la comunicació utilitzen l'eina per la seva rapidesa i perquè té un gran ventall de possibilitats i de crear de manera ràpida i resolutiva.
+Per tant, tenim una nova eina que agafa diferents tècniques de disseny i crea una nova interfície fàcil d’utilitzar.
 
 #
 <br>
