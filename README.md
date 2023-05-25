@@ -7,7 +7,7 @@ Autor/a: Elisabet Delgado López
 
 Data: 24/05/2023
 
-# <img src="/presentacion.png" width="30" height="30" style="padding-top:30px" alt="Plantejament"> Plantejament
+# <img src="img/presentacion.png" width="30" height="30" style="padding-top:30px" alt="Plantejament"> Plantejament
 
 A continuació analitzarem dos casos d'hibridació. La millor manera de realitzar aquest anàlisis és fer-ho des de la perspectiva de Manovich.
 
@@ -22,7 +22,7 @@ Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el conc
 
 #
 
-<img src="/logo-canva.svg" alt="Canva">
+<img src="img/logo-canva.svg" alt="Canva">
 
 ***Canva*** és un software de disseny que neix el 2012. El seu objectiu és apropar el disseny a tothom: ***El poder del diseño, al alcance de todos***
 
@@ -36,11 +36,11 @@ Si ens basem en una de les definicions de Manovich en el seu llibre *El software
 
 L'element principal de ***Canva*** és bàsicament englobar en una mateixa plataforma funcionalitats de **`diferents programaris de disseny`**, com utilització de pinzells, transformar una imatge, animar, i fins i tot, editar vídeos, entre d’altres. I no és suficient, ja que han **`adequat les funcionalitats d'eines professionals`** per tal que els usuaris, que no tinguin cap coneixement d'aquests programes tan específics, les pugui utilitzar com a tal. A més simplifica el treball, utilitzen un ***`sistema drag &drop`***, només cal arrossegar els elements (com objectes, imatges, gràfics, etc ) que volem incloure en el disseny en el taulell que estem treballant. També ens permet incloure imatges o vídeos propis.
 
-<img src="/canva.png">
+<img src="img/canva.png">
 
 Al darrere d'aquesta plataforma hi ha un gran **`banc de dades i d'algoritmes`**. En el moment que et registres et demana per l'ús que vols fer i d'aquesta manera t'ofereix plantilles adequades o orientades per l'ús. També quan introdueixes un element en el teu disseny en el moment t'ofereixen plantilles o elements similars el que s'acaba de seleccionar. Té molt en compte les preferències de l'usuari per poder oferir opcions molt afinades. Un dels objectius de ***Canva*** és poder realitzar treballs acurats i a ser possible fer-ho d'una manera senzilla i ràpida.
 
-<img src="/canva3.png">
+<img src="img/canva3.png">
 
 Per tant, ens trobem amb una eina amb diferents components de disseny on pots crear des de zero o utilitzar alguna de les seves plantilles, actualment podem parlar de 15 milions de plantilles. No només es crea sinó que també pots **`compartir les teves creacions, descarregar o inclús demanar el servei d'impressió`**. Fan el servei d'una impremta, això si amb un cost addicional.
 
@@ -52,7 +52,7 @@ Per tant, tenim una nova eina que agafa diferents tècniques de disseny i crea u
 
 #
 <br>
-<img src="/IdealBarcelona.png" width="70" >
+<img src="img/IdealBarcelona.png" width="70" >
 
 **Ideal Barcelona** és un altre bon exemple d'hibridació. En aquest cas en el sector de la cultura.
 
@@ -65,7 +65,7 @@ Amb aquest nou concepte, anar a una exposició ja no és avorrit perquè t'**end
 L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen diverses tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, realitat virtual, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i **`interactuar amb les peces artístiques`**.
 
 
-[<img src="/ideal.png">](https://idealbarcelona.com/wp-content/uploads/2020/09/IDEAL-Centre-darts-digitals-Digital-Arts-Center.mp4)
+[<img src="img/ideal.png">](https://idealbarcelona.com/wp-content/uploads/2020/09/IDEAL-Centre-darts-digitals-Digital-Arts-Center.mp4)
 
 Aquests espais es poden convertir en els nous museus del futur o es quedaran com centres només d'exhibicions puntuals? Hem de dir, que en aquest cas és més que un "futur museu", el podem considerar un espai cultural perquè no només s'han realitzat exposicions sinó també hi ha hagut projectes teatrals on la barrera entre els actors i l'espectador no existeix, ja que tots formaven part de l'obra, i combinen amb projeccions tridimensionals.
 
@@ -79,7 +79,7 @@ Com podem veure, **Ideal Barcelona** ha creat una nova manera de consumir art i 
 
 
 
-# <img src="/presentacion.png" width="30" height="30" style="padding-top:30px" alt="Plantejament"> Bibliografia/ Webgrafia
+# <img src="img/presentacion.png" width="30" height="30" style="padding-top:30px" alt="Plantejament"> Bibliografia/ Webgrafia
 - Manovich, L. (2013). *El software toma el mando. Barcelona.* Editorial UOC
 - [Web Canva](https://www.canva.com/es_es/about/)
 - Fernández, Yúbal (2020, 25 de maig). *Qué es Canva, cómo funciona y cómo usarlo para crear un diseño* [ [entrada de blog] ](https://www.xataka.com/basics/que-canva-como-funciona-como-usarlo-para-crear-diseno). Blog de Xataka
