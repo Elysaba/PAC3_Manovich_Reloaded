@@ -60,24 +60,24 @@ Per tant, tenim una nova eina que agafa diferents tècniques de disseny i crea u
 
 **Ideal Barcelona** és el primer centre del sud d'Europa dedicat a la producció i exhibició d'arts digitals. Un espai creatiu que investiga noves maneres de **`crear experiències immersives`** i que va obrir les portes el 2019.
 
-Les experiències immersives són molt exemple per entendre d'hibridació, i aquest cas és peculiar perquè l'espai on realitzen aquestes exposicions era un antic cinema i amb el pas del temps es va convertir en platós de televisió. I quin millor lloc com aquest per poder realitzar o experimentar l'art d'aquesta manera amb l'art.
+Les experiències immersives són molt exemple per entendre d'hibridació, i aquest cas és peculiar perquè l'espai on realitzen aquestes exposicions era un antic cinema i amb el pas del temps es va convertir en platós de televisió. I quin millor lloc com aquest per poder realitzar o experimentar l'art d'aquesta manera.
 
 Amb aquest nou concepte, anar a una exposició ja no és avorrit perquè t'**endinses dins de l'obra de l'artista i formes part de l'obra**. 
 
-L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen vàries tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i interactuar amb les peces artístiques.
+L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen diverses tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i interactuar amb les peces artístiques.Una **`nova manera de consumir art`**.
 
 
 [<img src="/ideal.png">](https://idealbarcelona.com/wp-content/uploads/2020/09/IDEAL-Centre-darts-digitals-Digital-Arts-Center.mp4)
 
-Una **`nova manera de consumir art`**, aquests espais es poden convertir en els nous museus del futur o es quedaran com centres només d'exhibicions puntuals? Hem de dir, que en aquest cas és més que un "futur museu", el podem considerar un espai cultural perquè no només s'han realitzat exposicions sinó també hi han hagut projectes teatrals on la barrera dels actors i l'espectador no existeix, ja que tots formaven part de l'obra i combinant en projeccions tridimensionals.
+Aquests espais es poden convertir en els nous museus del futur o es quedaran com centres només d'exhibicions puntuals? Hem de dir, que en aquest cas és més que un "futur museu", el podem considerar un espai cultural perquè no només s'han realitzat exposicions sinó també hi ha hagut projectes teatrals on la barrera entre els actors i l'espectador no existeix, ja que tots formaven part de l'obra, i combinen amb projeccions tridimensionals.
 
 > *Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos. (Manovich, 2013)*
 
-**Ideal Barcelona** no només és un centre on realitzen exposicions sinó també és un **Laboratori**, aquí treballen molt amb el concepte d'hibridació. Agafen ja tècniques existents com realitat augmentada, 3D, hologrames i van més enllà per poder oferir a l'usuari una *experiència inoblidable* i així poder apropar l'art a tothom. Actualment, estan portant a terme un projecte molt interessant i potser sortirà una nova manera d'entendre la realitat virtual. Estan **`desenvolupant una tecnologia pròpia`**, la realitat virtual multiusuaris. D'aquesta manera els permet crear i gestiona experiències en un mateix espai físic i compartir-les al mateix moment amb un altra persona que està interactuant amb el contingut. Combinen els dos mons: els que utilitzen la realitat virtual i els que interactuen dins de l'espai.
+**Ideal Barcelona** no només és un centre on realitzen exposicions, també és un **Laboratori**, aquí treballen molt amb el concepte d'hibridació. Agafen tècniques existents com realitat augmentada, 3D, hologrames i van més enllà per poder oferir a l'usuari una *experiència inoblidable* i així poder apropar l'art a tothom. Actualment, estan portant a terme un projecte molt interessant i potser sortirà una nova manera d'entendre la realitat virtual. Estan **`desenvolupant una tecnologia pròpia`**, on el seu objectiu és aconseguir una **realitat virtual multiusuari**. D'aquesta manera els permet crear i gestiona experiències en un mateix espai físic i compartir-les al mateix moment amb una altra persona que està interactuant amb el contingut. Combinen els dos mons: els que utilitzen la realitat virtual i els que interactuen dins de l'espai.
 
 No es conformen a ensenyar el que són capaços de fer sinó que comparteixen el coneixement a tothom, per aquest motiu organitzen tallers, activitats i programes de formació, des de nens petits a públic especialitzat. I no només es centren a convertir grans obres mestres en noves obres sinó que tenen un **`espai per nou creadors`**, això si creadors que treballin en **formats digitals**.
 
-Com podem veure, **Ideal Barcelona** ha posat a l'abast de tothom una nova forma d'expressió, i ho aconsegueix combinant art + noves tecnologies. Hem de dir que no és pionera, ja que abans es podria trobar alguna exposició amb realitat virtual, però sí que és la primera que combina vàries tècniques per tenir aquesta experiència immersiva.
+Com podem veure, **Ideal Barcelona** ha creat una nova manera de consumir art i de crear, i ho ha aconseguit combinant art + noves tecnologies. Hem de dir que no és pionera, ja que abans es podria trobar alguna exposició amb realitat virtual, però sí que és la primera que combina diferents tècniques a la vegada per tenir aquesta experiència immersiva.
 
 
 
