@@ -26,7 +26,7 @@ Els dos casos que hem escollit per fer aquest anàlisi i entendre millor el conc
 
 ***Canva*** és un software de disseny que neix el 2012. El seu objectiu és apropar el disseny a tothom: ***El poder del diseño, al alcance de todos***
 
-El que pretenen és que qualsevol persona pugi dissenyar el que volguí amb uns acabats professionals i publicar-ho en l'entorn digital.
+El que pretenen és que qualsevol persona pugui dissenyar i obtenir uns resultats professionals per tal de poder-ho publicar en qualsevol entorn digital.
 
 **Per què considerem que *Canva* és un bon exemple d'hibridació?**
 
