@@ -62,7 +62,7 @@ Per tant, tenim una nova eina que agafa diferents tècniques de disseny i crea u
 
 Amb aquest nou concepte, anar a una exposició ja no és avorrit perquè t'**endinses dins de l'obra de l'artista i formes part de l'obra**. 
 
-L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen diverses tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, realitat virtual, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i interactuar amb les peces artístiques.
+L'art immersiu el que aconsegueix és que l'usuari visqui dins de l'**`obra d'art`** i això només és possible amb la **`combinació de noves tecnologies`** com és aquest cas. Per obtenir aquesta experiència s'utilitzen diverses tècniques de 2D, 3D, projeccions audiovisuals, realitat augmentada, realitat virtual, holografia, sons, etc. L'usuari rep molts estímuls per endinsar-se i **`interactuar amb les peces artístiques`**.
 
 
 [<img src="/ideal.png">](https://idealbarcelona.com/wp-content/uploads/2020/09/IDEAL-Centre-darts-digitals-Digital-Arts-Center.mp4)
